@@ -31,8 +31,8 @@ A deep learning-based model utilizing **Long Short-Term Memory (LSTM)** networks
 - 📌 **3-layer LSTM network optimized** for enhanced predictive capability.  
 
 ---
-![META Stock Prediction]([https://your-image-url.com](https://imgur.com/a/wJhbMnp))
 
+<img width="800" alt="META Stock Prediction" src="https://github.com/user-attachments/assets/your-image-url">
 
 ## 🏗️ Installation & Usage  
 
