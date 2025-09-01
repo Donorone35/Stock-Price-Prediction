@@ -36,7 +36,7 @@ A deep learning-based model utilizing **Long Short-Term Memory (LSTM)** networks
 **Description:** The plot shows the actual and predicted prices for META.  
 The **blue line** represents the actual prices, while the **green line** shows the predicted prices.
 
-![Alt text for image](Stock Price Predictor.png)
+![Alt text for image](MetaStockPrediction.png)
 
 ---
 
